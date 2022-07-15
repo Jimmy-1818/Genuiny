@@ -9,9 +9,23 @@ body{
 /*______________HEADER_____________*/
 
 
-.nav{
+#first-nav{
 	display: flex;
-	flex-wrap: wrap;
+	width: 100%;
+	background: #0ABAB5;
+	height: 20vh;
+}
+
+#first-nav img{
+	height: 15vh;
+}
+
+#first-nav #genuiny-logotype{
+	text-decoration: none
+}
+
+.menu{
+
 }
 
 .nav ul{
