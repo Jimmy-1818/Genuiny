@@ -1,8 +1,22 @@
+/*______________GENERAL_____________*/
+
+
 body{
 	margin: 0;
 }
 
+
+/*______________HEADER_____________*/
+
+
 .nav{
-	background: #0ABAB5;
-	height: 20vh;
+
+}
+
+ul{
+	list-style-type: none;
+}
+
+ul li{
+	display: inline-block;
 }
