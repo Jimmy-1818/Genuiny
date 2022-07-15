@@ -13,17 +13,20 @@ body{
 	display: flex;
 	width: 100%;
 	background: #0ABAB5;
-	height: 12vh;
+	height: 80px;
 	align-items: center;
 }
 
-#first-nav img{
-	box-sizing: border-box;
-	height: 10vh;
-	padding: 2vh;
+#first-nav #first-logo{
+	height: 80px;
+	
 }
 
-#first-nav #genuiny-logotype{
+#first-nav #first-logo img{
+	height: 100%;
+}
+
+#first-nav #first-logotype{
 	text-decoration: none;
 	color: #fff;
 }
