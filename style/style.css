@@ -1,8 +1,8 @@
 /*______________GENERAL_____________*/
 
-
 body{
 	margin: 0;
+	font-family: ;
 }
 
 
@@ -10,13 +10,14 @@ body{
 
 
 .nav{
-
+	display: flex;
+	flex-wrap: wrap;
 }
 
-ul{
+.nav ul{
 	list-style-type: none;
 }
 
-ul li{
-	display: inline-block;
+.nav ul li{
+	flex: 1 1 33%;
 }
