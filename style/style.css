@@ -2,7 +2,7 @@
 
 body{
 	margin: 0;
-	font-family: ;
+	font-family: Roboto, 'Open sans', sans-serif;
 }
 
 
@@ -14,14 +14,18 @@ body{
 	width: 100%;
 	background: #0ABAB5;
 	height: 20vh;
+	align-items: center;
 }
 
 #first-nav img{
-	height: 15vh;
+	box-sizing: border-box;
+	height: 20vh;
+	padding: 2vh;
 }
 
 #first-nav #genuiny-logotype{
-	text-decoration: none
+	text-decoration: none;
+	color: #fff;
 }
 
 .menu{
