@@ -13,13 +13,13 @@ body{
 	display: flex;
 	width: 100%;
 	background: #0ABAB5;
-	height: 20vh;
+	height: 12vh;
 	align-items: center;
 }
 
 #first-nav img{
 	box-sizing: border-box;
-	height: 20vh;
+	height: 10vh;
 	padding: 2vh;
 }
 
