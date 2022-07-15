@@ -12,33 +12,33 @@ body{
 #first-nav{
 	display: flex;
 	width: 100%;
+	height: 100px;
 	background: #0ABAB5;
-	height: 80px;
 	align-items: center;
 }
 
 #first-nav #first-logo{
-	height: 80px;
-	
+	width: 8%;
 }
 
 #first-nav #first-logo img{
-	height: 100%;
+	max-width: 100%;
+	max-height: 80px;
+	padding: 10%;
 }
 
 #first-nav #first-logotype{
 	text-decoration: none;
+	width: 50%;
 	color: #fff;
+	font-weight: lighter;
+	font-size: 6rem;
 }
 
-.menu{
 
-}
 
-.nav ul{
-	list-style-type: none;
-}
-
-.nav ul li{
-	flex: 1 1 33%;
+#second-nav{
+	width: 100%;
+	display: flex;
+	background: #ccc;
 }
